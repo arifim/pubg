@@ -29,5 +29,9 @@ public class Employee {
 		System.out.println(employeeName + " transport allowance = " + transportAllowance);
 	}
 	
+	public void info() {
+		System.out.println("");
+	}
+	
 
 }
